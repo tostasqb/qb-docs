@@ -1,4 +1,5 @@
 site_name: QB Documentation
+repo_url: https://github.com/tostasqb/qb-docs
 
 pages:
 - Home: index.md
