@@ -17,3 +17,6 @@ This course will get you covered on what you'll need to do just that!
 # How
 
 I won't be the one teaching you, I'll just compile here a set of resources for the technologies and best practices I care the most in this point in time and suggest you a path you can take.
+
+---
+This documentation was last updated the **5 of April 2016**
