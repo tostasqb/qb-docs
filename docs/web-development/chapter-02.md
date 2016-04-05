@@ -1,0 +1,43 @@
+# Part II - Frontend +
+
+## Introduction
+
+You already know what your basic needs, now the objective is to be more productive and introduce yourself to good practices this tech role uses.
+
+## 1. NPM
+
+- [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm)
+- [Beginners guide](http://www.sitepoint.com/beginners-guide-node-package-manager/)
+
+## 2. Gulp
+
+- [Understand where the pieces fit together (1 video)](https://youtu.be/LmdT2zhFmn4)
+- [Complete course (11 videos)](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
+
+## 3. Getting Responsive
+
+- [Guidelines for responsive web design (article)](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+- [How to build a responsive website from start to finish (26 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
+
+## 4. HTML, CSS Frameworks and compilers
+
+Special focus on [Bootstrap](http://getbootstrap.com/)
+
+- [Responsive Design Frameworks: Just Because You Can, Should You? (article)](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/)
+- [The Botstrap Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
+
+## 5. GIT
+
+- [What is version control? (1 video)](https://git-scm.com/video/what-is-version-control)
+- [Complete git course on codecourse (11 videos)](https://www.youtube.com/playlist?list=PLfdtiltiRHWFEbt9V04NrbmksLV4Pdf3j)
+- Now, install [SourceTree](https://www.sourcetreeapp.com/)
+
+## 6. Project
+
+Redo your single page website based on the template below applying the concepts from Part II. A working example can be found [here](https://p.w3layouts.com/demos/anhiora/web/).
+Responsiveness is important as well as using and understanding the css framework, write all styles in sass or scss.
+Also, push your project to github. Don't have an account? It's free, register.
+
+![Exercise-2][exercise-2]
+
+[exercise-2]: /img/exercise-1.png "Exercise 2"

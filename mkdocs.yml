@@ -1,0 +1,12 @@
+site_name: QB Documentation
+
+pages:
+- Home: index.md
+- Web Develpment:
+  - 'Part I - Frontend bases': 'web-development/chapter-01.md'
+  - 'Part II - Frontend +': 'web-development/chapter-02.md'
+  - 'Part III - Website generation': 'web-development/chapter-03.md'
+  - 'Part IV - Javascript in detail': 'web-development/chapter-04.md'
+  - 'Part IV - Backend': 'web-development/chapter-05.md'
+
+theme: flatly
