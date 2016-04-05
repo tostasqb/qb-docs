@@ -1,5 +1,9 @@
 site_name: QB Documentation
+site_description: Become a web developer for free, learn from the best resources available online
+site_author: tostasqb
+
 repo_url: https://github.com/tostasqb/qb-docs
+google_analytics: ['UA-75996053-1', 'tostasqb.com']
 
 pages:
 - Home: index.md
