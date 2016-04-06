@@ -4,11 +4,16 @@
 
 At the end of this part you will be able to build a website, know the tools and have the basic knowledge of what you will ever need to make it as a web developer.
 
+Choose a folder in your PC/Mac where you will do all your web applications or websites. Think of that folder as the father of them all. Normally for me that's in `/opt/project/`. After Atom is installed you can jump easily from one project to another with the `project-quick-open` plugin.
+
+Also, make yourself used to the Terminal, look for it in your pc/mac and don't get scared because with little time it will be your best friend.
+
 ## 1. Atom
 
 ### Installation
+
 1. Install Atom from https://atom.io/
-2. Add plugins depending on your needs with `apm install [package-name]`
+2. Add plugins depending on your needs with `apm install [package-name]` in your terminal or by searching on Atom > Preferences > Install of the menu. If you don't know your needs yet, and chances are you don't, then wait until you have them. But be curious and search about these plugins. Some of them you'll see use in little time.
   - editorconfig
   - atom-beautify
   - autoclose-html
@@ -42,11 +47,13 @@ In your project add a `.editorconfig` file to your project root directory and it
 Atom and specifically linters are great to teach you to write better code. Take a look to see what is meant:
 https://atom.io/packages/linter
 
-<i class="fa fa-info-circle"></i> More about Atom in these [DevTips videos (3 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4J0MJhTSUwrb_6hJ5iMGWgf)
+<i class="fa fa-info-circle"></i> Getting a little lost too quickly? these [DevTips videos (3 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4J0MJhTSUwrb_6hJ5iMGWgf) will help you understand.
 
 ---
 
 ## 2. Web development basics
+
+This could really be the first chapter...
 
 - [How internet works (1 video)](https://youtu.be/XZIMEoUhOA8?list=PLqGj3iMvMa4IbNGS5shOx38KXtAtWEZsq)
 - [Organize your project (1 video)](https://youtu.be/8b7wObfC8VM?list=PLqGj3iMvMa4IbNGS5shOx38KXtAtWEZsq)
