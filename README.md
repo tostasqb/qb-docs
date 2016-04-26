@@ -116,4 +116,5 @@ When ready, submit a pull request and once accepted it will be 'automagically' p
 
 - [mkdocs](http://www.mkdocs.org/)
 - [devtips](https://www.youtube.com/user/DevTipsForDesigners/playlists)
+- [Tuts+](http://tutsplus.com/courses?filter=free&page=1)
 - Remind me to put some more here...
