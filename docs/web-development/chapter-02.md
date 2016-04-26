@@ -24,7 +24,8 @@ You already know what your basic needs, now the objective is to be more producti
 Special focus on [Bootstrap](http://getbootstrap.com/)
 
 - [Responsive Design Frameworks: Just Because You Can, Should You? (article)](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/)
-- [The Botstrap Grid](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
+- [The Botstrap Grid (14 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
+- [Bootstrap tutorial (1 video)](https://youtu.be/gqOEoUR5RHg)
 
 ## 5. GIT
 
