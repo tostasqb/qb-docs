@@ -14,4 +14,4 @@ One of, or if you want, all of above
 I won't be the one teaching you, I'll just compile here a set of resources for the technologies and best practices I care the most in this point in time and suggest you a path you can take.
 
 ---
-Docs last updated in **26 of April 2016**
+Docs last updated in **29 of April 2016**
