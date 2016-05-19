@@ -7,7 +7,7 @@ env:
     - secure: "U/IbuMixFvtMyErzWipFRdBevWSKuhEfwl32MKuMbRElUUNwd/+H+2SO+ozRFhl7TdoWy5WUOKisGNE9/eQDrRlyDucFGUsVAiO8iwtOfZPSveD+FY1GofirNcdwvP06J/HADxoI2k4mGfbEZptuPwxQAIMw/7uB/5vZ8iZdxRc/d1Uk2YYgLXaAlM3JfC4jZ/F1iFP0ugv7+yi7Z3rQsGQPL1Iep4M+5cryFhbnWWLWFkM4/nNuQSeqQp/wq6dhufv70C8acfn1tfWKNDF9HUU46Jb52UhZ672hh4XyW6nm/kSG25PS/2O3plhbZdyaDP0oN+6DkYpfWrZSwcQ0rB19oo0hSz7WUMHifqRUVnl2myEq4BVUkZvNQ/Lzy3s4w4CKg+6scCTHy00Zy2h0tQMLMxV6TXTqiqcvWNgZIGmh/jR79hHpa1kfSp7sqVJ1RbILxVgfaTg/WAUWonbvVxHg6icyPn5S5OQlgLYMhNE+eubaG2XFIZH9qMff2pkcQNcjbMI9COv7RQl5uHFYoh0OmACma5zDshszeVpZah/fuOCHCf72HR6wyopFIskdxKvF0pZ/OdO9NjJPZy4uMHsMOvQjKG8AH6L/k0k4UVkiXiy49OFtuo5OKiusPr47/1jAxElGdfoArNDFeKQVd4mTcVSWuzjbsBWrfofbe4Y="
 install:
   - pip install mkdocs
-  - pip install mkdocs-bootswatch
+  - pip install mkdocs-material
 script:
   - mkdocs build
 after_success:

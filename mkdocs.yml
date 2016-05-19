@@ -15,4 +15,4 @@ pages:
   - 'Part IV - Javascript in detail': 'web-development/chapter-04.md'
   - 'Part IV - Backend': 'web-development/chapter-05.md'
 
-theme: flatly
+theme: material

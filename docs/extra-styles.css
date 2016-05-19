@@ -1,5 +1,23 @@
-h2, .h2 {
+/*h2, .h2 {
   font-size: 25px;
   background-color: #f5f9fd;
   border-left: 4px solid;
   padding: 15px 25px; }
+
+.navbar-default .navbar-nav > li > a[rel="next"],
+.navbar-default .navbar-nav > li > a[rel="prev"] {
+  background: #15a589;
+  padding: 5px 10px;
+  margin: 14px 10px;
+  border-radius: 5px;
+  min-width: 100px;
+  text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a[rel="next"]:hover,
+.navbar-default .navbar-nav > li > a[rel="prev"]:hover,
+.navbar-default .navbar-nav > li > a[rel="next"]:focus,
+.navbar-default .navbar-nav > li > a[rel="prev"]:focus {
+  background-color: #37B59D;
+  color: #fff;
+}*/
