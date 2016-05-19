@@ -4,6 +4,7 @@ site_author: tostasqb
 
 repo_url: https://github.com/tostasqb/qb-docs
 google_analytics: ['UA-75996053-1', 'tostasqb.com']
+extra_css: ['extra-styles.css']
 
 pages:
 - Home: index.md
