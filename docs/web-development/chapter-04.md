@@ -8,9 +8,9 @@ To begin with, read [this](http://www.sitepoint.com/top-javascript-frameworks-li
 
 Most certainly it will not be required that you learn all frameworks listed here, one will. Some of them have a steep learning curve so experiment with several but choose one in some point or you will ramble around and will not be efficient with none of them.
 
-## 1. Beginning with the beginning, patterns
+## 1. You, meet patterns, patterns meet you
 
-There are a number of patters that will help any developer write better code, knowing them all from the beginning is nearly impossible, be ready to constantly improve your code as you learn these patters.
+These are not the basics, no no no. The basics are available in the first part of this development path...but there are a number of patterns that will help any developer write better JS code, and understand better the true potential of this scripting language. Knowing them all from the beginning is nearly impossible, but it is the the main goal of every (good) JS developer out there so embrace the journey and learn a new pattern everytime you feel confy with JS, it will show you that you didn't know that much about it.
 
 - [Short version](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 - [Bible version](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
