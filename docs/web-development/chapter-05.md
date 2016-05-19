@@ -12,17 +12,22 @@ Backend development is not essential to make a website, but it is to make a web 
 - [CodeAcademy Ruby course (9 hours interactive course)](https://www.codecademy.com/learn/ruby)
 - [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 
-## 2. Rails
+## 2. MVC
 
-- Know about MVC right here
+Know about MVC right here
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/LiBdzE_DJn4" frameborder="0" allowfullscreen></iframe>
+
+## 3. Rails
+Proper tutorial:
+
 - [Tuts + Ruby on Rails 4 for beginners (18 videos)](https://www.youtube.com/playlist?list=PL4PHKQqKQiLf0WU1Rp-O13RILwCbR38yk)
-- [Rails style guide](https://github.com/bbatsov/rails-style-guide)
+
+Other resources to have at the same time you learn rails on the tutorial above:
+
+- [Rails style guide](https://github.com/bbatsov/rails-style-guide). They really are helpful in avoiding common mistakes and writing code others can understand easily. Also, a great way to have this always present is to install [Atom's linter plugins](https://github.com/AtomLinter/linter-rubocop), that give you realtime tips and warnings based on these style guides.
 - [Rails Bible](http://guides.rubyonrails.org/) and the guides to release you from doubts. Everytime you don't remember something or have some doubts about activerecord for instance, this is your _Oracle_.
 
-**Note:**
-To start writing better Ruby and Rails code please take a look at the "style guide" pointers. They really are helpful in avoiding common mistakes and writing code others can understand easily. Also, a great way to have this always present is to install [Atom's linter plugins](https://github.com/AtomLinter/linter-rubocop), that give you realtime tips and warnings based on these style guides.
 
-
+---
 more to come...
