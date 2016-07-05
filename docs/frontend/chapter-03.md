@@ -13,12 +13,13 @@ In short, Content Management Systems give any normal user the possibility to edi
 - [Shopify](https://www.shopify.com/) paid, for ecommerce sites only
 - [Prestashop](https://www.prestashop.com) free, for ecommerce
 
-There are groups of concepts and functionalities common to them all, names will be similar to these:
+There are groups of concepts and functionalities common to them all, like:
 
 - Themes
 - Plugins
 - Multisite & Multi-language
 - Custom fields
+- Hooks
 
 ## 2. Basic generation - Mkdocs
 
@@ -28,6 +29,8 @@ This is how this documentation is done and maintained. Pretty easy.
 - Learn [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so that you can change and make suggestions in form as a `merge request` and improve what you have seen in your path in (frontend) web development.
 
 ## 3. Advanced generation - Jekyll
+
+If you want to design your own website and make a generator for everytime you change or add something to your contents Jekyll can help you.
 
 - [Complete course (34 videos)](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-)
 - [Jon doesn't like Jekyll, do you? (1 video)](https://youtu.be/u22CLlw4_hg)
@@ -40,10 +43,6 @@ Make a documentation project with mkdocs similiar to this (qb-docs) you are read
 
 ### PART II
 
-As the mkdocs exercise is as simple it can be, i got another one for you.
-Redo your single page website based on the template below with Jekyll.
+As the mkdocs exercise is as simple it can be, I got another one for you.
+Redo your single page website based on the template from Part I with Jekyll.
 It is important that you think about content and how to organize it easily, and how it will scale depending on the final user or content manager.
-
-![Exercise-3][exercise-3]
-
-[exercise-3]: /img/exercise-1.png "Exercise 3"

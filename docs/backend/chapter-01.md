@@ -1,4 +1,4 @@
-# Part V - Backend
+# Part I - Backend
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Backend development is not essential to make a website, but it is to make a web 
 
 Know about MVC right here
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/LiBdzE_DJn4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="350px" src="https://www.youtube.com/embed/LiBdzE_DJn4" frameborder="0" allowfullscreen></iframe>
 
 ## 3. Rails
 Proper tutorial:
@@ -27,7 +27,3 @@ Other resources to have at the same time you learn rails on the tutorial above:
 
 - [Rails style guide](https://github.com/bbatsov/rails-style-guide). They really are helpful in avoiding common mistakes and writing code others can understand easily. Also, a great way to have this always present is to install [Atom's linter plugins](https://github.com/AtomLinter/linter-rubocop), that give you realtime tips and warnings based on these style guides.
 - [Rails Bible](http://guides.rubyonrails.org/) and the guides to release you from doubts. Everytime you don't remember something or have some doubts about activerecord for instance, this is your _Oracle_.
-
-
----
-more to come...

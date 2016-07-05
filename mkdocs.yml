@@ -8,11 +8,42 @@ extra_css: ['extra-styles.css']
 
 pages:
 - Home: index.md
-- Web Develpment:
-  - 'Part I - Frontend bases': 'web-development/chapter-01.md'
-  - 'Part II - Frontend +': 'web-development/chapter-02.md'
-  - 'Part III - Website generation': 'web-development/chapter-03.md'
-  - 'Part IV - Javascript in detail': 'web-development/chapter-04.md'
-  - 'Part IV - Backend': 'web-development/chapter-05.md'
+
+- Frontend:
+  - 'Part I - Frontend bases': 'frontend/chapter-01.md'
+  - 'Part II - Frontend +': 'frontend/chapter-02.md'
+  - 'Part III - Website generation': 'frontend/chapter-03.md'
+  - 'Part IV - Javascript in detail': 'frontend/chapter-04.md'
+
+- Backend:
+  - 'Part I - Ruby on Rails': 'backend/chapter-01.md'
+  - 'Part II - ASP.NET MVC': 'backend/chapter-02.md'
+
+- Mobile:
+  - 'Part I - Hybrid': 'mobile/chapter-01.md'
+
+- Databases:
+  - 'Part I - Mysql': 'databases/chapter-01.md'
+  - 'Part II - Postgres': 'databases/chapter-02.md'
+  - 'Part III - Elasticsearch': 'databases/chapter-03.md'
+
+- APIs and Webservices:
+  - 'Part I - REST': 'databases/chapter-01.md'
+  - 'Part II - WCF': 'databases/chapter-02.md'
+
+- OS´s and containers:
+  - 'Part I - Virtual machines': 'hosting/chapter-01.md'
+  - 'Part II - Containers': 'hosting/chapter-02.md'
+  - 'Part III - Deploy': 'hosting/chapter-03.md'
+
+- SoftDev Process:
+  - 'Part I - A little theory': 'process/chapter-01.md'
+
+- Trending technologies:
+  - 'Part I - Big Data & Analytics': 'trending/chapter-01.md'
+  - 'Part II - AWS': 'trending/chapter-02.md'
 
 theme: material
+extra:
+  version: '0.3'
+  logo: 'img/tostas.png'

@@ -35,10 +35,14 @@ Special focus on [Bootstrap](http://getbootstrap.com/)
 
 ## 6. Project
 
-Redo your single page website based on the template below applying the concepts from Part II. A working example can be found [here](https://p.w3layouts.com/demos/anhiora/web/).
+Redo your single page website based on the template from Part I applying the concepts from Part II.
 Responsiveness is important as well as using and understanding the css framework, write all styles in sass or scss.
-Also, push your project to github. Don't have an account? It's free, register.
+Also, push your project to github. Don't have an account? It's free, so no excuses.
 
-![Exercise-2][exercise-2]
+  - ** Option A **
 
-[exercise-2]: /img/exercise-1.png "Exercise 2"
+A working example [here](https://p.w3layouts.com/demos/anhiora/web/).
+
+  - ** Option B **
+
+A working example [here](http://joomla.pcmshaper.com/2014/acrostia/).
