@@ -84,8 +84,8 @@ The level of interactiveness or responsiveness is not important, you will deal w
 
   - **Option A**
 
-<a href="/img/anhiora_high.jpg" class="img-preview" style="background-image: url(/img/anhiora.jpg)">&nbsp;</a>
+<a href="./img/anhiora_high.jpg" class="img-preview" style="background-image: url(./img/anhiora.jpg)">&nbsp;</a>
 
   - **Option B**
 
-<a href="/img/acrostia_high.jpg" class="img-preview" style="background-image: url(/img/acrostia.jpg)">&nbsp;</a>
+<a href="./img/acrostia_high.jpg" class="img-preview" style="background-image: url(./img/acrostia.jpg)">&nbsp;</a>
