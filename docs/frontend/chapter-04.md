@@ -14,7 +14,7 @@ As in many programming languages, we can learn them and use them as we like, spa
 
 - [Airbnb javascript style guide](https://github.com/airbnb/javascript)
 
-![](./img/spaghetti.jpg)
+![](/img/spaghetti.jpg)
 
 ## 2. You, meet patterns, patterns meet you
 

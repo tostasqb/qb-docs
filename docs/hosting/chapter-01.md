@@ -4,7 +4,7 @@
 
 Imagine being able to use a Windows XP, 7, 8, 8.1, 10 or a Mac and Linux on the same computer. That's the main concept behind this, but your computer is still YOUR computer as originally you want it, so all these machines will be installed on an "app", getting the point? Sure you do, it's a concise explanation (applause), but here I leave a more precise one:
 
-![][./img/virtual-machine.gif]
+![][/img/virtual-machine.gif]
 
 A picture is worth a thousand words _ain't it_? Anyhow, nothing like getting your hands dirty.
 
