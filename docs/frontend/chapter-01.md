@@ -2,6 +2,10 @@
 
 ## Introduction
 
+Read [this](http://www.theodinproject.com/introduction-to-web-development/what-a-web-developer-does?ref=home) from the [odin project](http://www.theodinproject.com/), specially the part of Frontend vs Backend. As your there you'll notice that the odin project is a really nice set of tutorials for a web development path as well. Consider following that path, it's really complete. I won't be offended, I promise! qb-docs and this Frontend bases is an alternative path not meant to compete with odin ;)
+
+Moving on...
+
 At the end of this part you will be able to build a website, know the tools and have the basic knowledge of what you will ever need to make it as a web developer.
 
 Choose a folder in your PC/Mac where you will do all your web applications or websites. Think of that folder as the father of them all. Normally for me that's in `/opt/project/`.

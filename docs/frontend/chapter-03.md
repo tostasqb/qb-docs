@@ -21,12 +21,16 @@ There are groups of concepts and functionalities common to them all, like:
 - Custom fields
 - Hooks
 
+---
+
 ## 2. Basic generation - Mkdocs
 
 This is how this documentation is done and maintained. Pretty easy.
 
 - [Mkdocs main site and documentation](http://www.mkdocs.org/)
 - Learn [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so that you can change and make suggestions in form as a `merge request` and improve what you have seen in your path in (frontend) web development.
+
+---
 
 ## 3. Advanced generation - Jekyll
 
@@ -35,14 +39,17 @@ If you want to design your own website and make a generator for everytime you ch
 - [Complete course (34 videos)](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-)
 - [Jon doesn't like Jekyll, do you? (1 video)](https://youtu.be/u22CLlw4_hg)
 
+---
+
 ## 4. Project
 
 ### PART I
 
-Make a documentation project with mkdocs similiar to this (qb-docs) you are reading. How? Follow the steps on www.mkdocs.org and you'll be fine.
+Make a documentation project with mkdocs similiar to this (qb-docs) you are reading. How? Follow the steps on [mkdocs.org](www.mkdocs.org) and you'll be fine.
+
+As the mkdocs exercise is as simple it can be, I got another one for you.
 
 ### PART II
 
-As the mkdocs exercise is as simple it can be, I got another one for you.
 Redo your single page website based on the template from Part I with Jekyll.
-It is important that you think about content and how to organize it easily, and how it will scale depending on the final user or content manager.
+It is important that you **think about content and how to organize it** easily, and how it will scale depending on the final user or content manager. It is fairly a pretty large project, if you are able to have a coherent solution at the end of this it would leave me so proud of you!

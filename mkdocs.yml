@@ -6,6 +6,8 @@ repo_url: https://github.com/tostasqb/qb-docs
 google_analytics: ['UA-75996053-1', 'tostasqb.com']
 extra_css: ['extra-styles.css']
 
+# dev_addr: 'http://127.0.0.1:8000/'
+
 pages:
 - Home: index.md
 
@@ -45,5 +47,5 @@ pages:
 
 theme: material
 extra:
-  version: '0.3.1'
+  version: '0.3.2'
   logo: 'img/tostas.png'

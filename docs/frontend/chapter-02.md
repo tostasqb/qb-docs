@@ -9,15 +9,21 @@ You already know what your basic needs, now the objective is to be more producti
 - [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm)
 - [Beginners guide](http://www.sitepoint.com/beginners-guide-node-package-manager/)
 
+---
+
 ## 2. Gulp
 
 - [Understand where the pieces fit together (1 video)](https://youtu.be/LmdT2zhFmn4)
 - [Complete course (11 videos)](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 
+---
+
 ## 3. Getting Responsive
 
 - [Guidelines for responsive web design (article)](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [How to build a responsive website from start to finish (26 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
+
+---
 
 ## 4. HTML, CSS Frameworks and compilers
 
@@ -27,11 +33,15 @@ Special focus on [Bootstrap](http://getbootstrap.com/)
 - [The Botstrap Grid (14 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
 - [Bootstrap tutorial (1 video)](https://youtu.be/gqOEoUR5RHg)
 
+---
+
 ## 5. GIT
 
 - [What is version control? (1 video)](https://git-scm.com/video/what-is-version-control)
 - [Complete git course on codecourse (11 videos)](https://www.youtube.com/playlist?list=PLfdtiltiRHWFEbt9V04NrbmksLV4Pdf3j)
 - Now, install [SourceTree](https://www.sourcetreeapp.com/)
+
+---
 
 ## 6. Project
 

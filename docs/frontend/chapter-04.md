@@ -8,6 +8,8 @@ To begin with, read [this](http://www.sitepoint.com/top-javascript-frameworks-li
 
 Most certainly it will not be required that you learn all frameworks listed here, one will. Some of them have a steep learning curve so experiment with several but choose one in some point or you will ramble around and will not be efficient with none of them.
 
+---
+
 ## 1. Best practices
 
 As in many programming languages, we can learn them and use them as we like, spaghetti code is normal for when a developer starts out but in time it gets tiresome to understand, so best practices and guidelines are here to help. Airbnb have done a great job at doing this, keep this link under yur belt for the entire chapter.
@@ -16,12 +18,16 @@ As in many programming languages, we can learn them and use them as we like, spa
 
 ![](/img/spaghetti.jpg)
 
+---
+
 ## 2. You, meet patterns, patterns meet you
 
 These are not the basics, no no no. The basics are available in the first part of this development path...but there are a number of patterns that will help any developer write better JS code, and understand better the true potential of this scripting language. Knowing them all from the beginning is nearly impossible, but it is the the main goal of every (good) JS developer out there so embrace the journey and learn a new pattern everytime you feel confy with JS, it will show you that you didn't know that much about it.
 
 - [Short version](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 - [Bible version](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+---
 
 ## 3. JQuery and DOM
 
@@ -30,12 +36,16 @@ You already checked out what the DOM is in the basics part of this series but ta
 - [DOM, the Document Object Model (12 page tutorial)](http://www.w3schools.com/js/js_htmldom.asp).
 - [JQuery tutorial for beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 
+---
+
 ## 4. AngularJs
 
-Angular is going through a reconstruction phase, so It's not clear that what you learn on current version 1.x will be still useful in 2.x but it is still the most used javascript framework out there.
+Angularjs 2.0 is out!! (hearing applause and cheers) This may be the most used/popular javascript framework out there.
 
 - [CodeAcademy course](https://www.codecademy.com/learn/learn-angularjs)
 - If your spanish's good then [this](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2) is a good resource too.
+
+---
 
 ## 5. React
 

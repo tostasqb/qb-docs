@@ -1,39 +1,27 @@
-/*h2, .h2 {
-  font-size: 25px;
-  background-color: #f5f9fd;
-  border-left: 4px solid;
-  padding: 15px 25px; }
-
-.navbar-default .navbar-nav > li > a[rel="next"],
-.navbar-default .navbar-nav > li > a[rel="prev"] {
-  background: #15a589;
-  padding: 5px 10px;
-  margin: 14px 10px;
-  border-radius: 5px;
-  min-width: 100px;
-  text-align: center;
-}
-
-.navbar-default .navbar-nav > li > a[rel="next"]:hover,
-.navbar-default .navbar-nav > li > a[rel="prev"]:hover,
-.navbar-default .navbar-nav > li > a[rel="next"]:focus,
-.navbar-default .navbar-nav > li > a[rel="prev"]:focus {
-  background-color: #37B59D;
+.highlight {
+  background-color: #e84e40;
+  padding: 2px 5px;
   color: #fff;
-}*/
-/*.drawer .section::before {
-  content: ' ';
-  width: 6px;
-  height: 6px;
-  position: absolute;
-  margin-left: -13px;
-  margin-top: 4px;
-  background-color: rgba(0,0,0,.54);
-}*/
+  font-weight: 600;
+  text-transform: uppercase; }
+
+.copyright { display: none; }
+
+.article h1 {
+  font-size: 34px; }
+
+.article .wrapper {
+  padding-bottom: 120px;
+  padding-top: 90px; }
+
+code {
+  background-color: #f2f2f2;
+  padding: 2px; }
+
 .drawer .section {
   text-transform: uppercase;
-  color: #e84e40;
-}
+  color: #e84e40; }
+
 .img-preview {
   border: 14px solid #f2f2f2;
   height: 350px;
@@ -50,9 +38,17 @@
     border-color: #e84e40;
   }
 
-  .example {
-    -webkit-transition: background-color 500ms ease-out 1s;
-    -moz-transition: background-color 500ms ease-out 1s;
-    -o-transition: background-color 500ms ease-out 1s;
-    transition: background-color 500ms ease-out 1s;
-  }
+.example {
+  -webkit-transition: background-color 500ms ease-out 1s;
+  -moz-transition: background-color 500ms ease-out 1s;
+  -o-transition: background-color 500ms ease-out 1s;
+  transition: background-color 500ms ease-out 1s; }
+
+.toc > ul a[title=Home] {
+  padding-left: 45px; }
+
+  .toc > ul a[title=Home]::before {
+    font-family: 'FontAwesome';
+    content: '\f015';
+    position: absolute;
+    margin-left: -20px; }
