@@ -1,4 +1,4 @@
-# Part I - Backend
+# Part I - Ruby on Rails
 
 ## Introduction
 
@@ -30,7 +30,14 @@ The [odin project](http://www.theodinproject.com/) is a nice alternative for hav
 
 The final alternative is just another way of learning, it is a quicker way I guess but bear in mind the cons and pros that this could mean.
 
+- [Learn ruby in one vídeo!](https://youtu.be/Dji9ALCgfpM)
+
+  This is great to get started and to experiment the language before moving along RoR, if you have a schedule this is the way. If you consider yourself very newbie consider starting on the next tutorial, more complete and with more steps to make you take some time to interiorize the language.
+
 - [CodeAcademy Ruby course (9 hours interactive course)](https://www.codecademy.com/learn/ruby)
+
+  When learning Ruby keep a chrome tab with this link open. Are you learning about methods? search here too, It will tell you how to write better code.
+
 - [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 
 ---
@@ -51,6 +58,7 @@ Proper tutorial:
 Other resources to have at the same time you learn rails on the tutorial above:
 
 - [Rails style guide](https://github.com/bbatsov/rails-style-guide). They really are helpful in avoiding common mistakes and writing code others can understand easily. Also, a great way to have this always present is to install [Atom's linter plugins](https://github.com/AtomLinter/linter-rubocop), that give you realtime tips and warnings based on these style guides.
+
 - [Rails Bible](http://guides.rubyonrails.org/) and the guides to release you from doubts. Everytime you don't remember something or have some doubts about activerecord for instance, this is your _Oracle_.
 
 ---
@@ -61,8 +69,16 @@ Hosting your app online can be a challenge with rails. Many versions of ruby, ra
 
 - Official guides from heroku for [getting started](https://devcenter.heroku.com/articles/getting-started-with-rails4), you don't need nothing more that this (yeih!).
 
+What to publish? Just do the **final project**!
+
 ---
 
 ## 5. Final project
 
-...
+- Build a TO DO list application on ROR. You have one day!! What?! Yeah! [This guy did it!](https://www.youtube.com/watch?v=fd1Vn-Wvy2w) so follow along and get creative.
+
+- Deploy it on heroku...come on!
+
+- Host it on GitHub, don't know how? Checkout Part II, Chapter 5 of the Frontend Series.
+
+<a href="/docs/img/todo.png" class="img-preview" style="background-image: url(/docs/img/todo.png)">&nbsp;</a>

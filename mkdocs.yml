@@ -6,7 +6,12 @@ repo_url: https://github.com/tostasqb/qb-docs
 google_analytics: ['UA-75996053-1', 'tostasqb.com']
 extra_css: ['extra-styles.css']
 
-# dev_addr: 'http://127.0.0.1:8000/'
+theme: material
+extra:
+  version: '0.4.0'
+  logo: 'img/tostas.png'
+
+# dev_addr: 'http://127.0.0.1:8000/docs'
 
 pages:
 - Home: index.md
@@ -16,6 +21,7 @@ pages:
   - 'Part II - Frontend +': 'frontend/chapter-02.md'
   - 'Part III - Website generation': 'frontend/chapter-03.md'
   - 'Part IV - Javascript in detail': 'frontend/chapter-04.md'
+  - 'Part V - Meteor': 'frontend/chapter-05.md'
 
 - Backend:
   - 'Part I - Ruby on Rails': 'backend/chapter-01.md'
@@ -30,8 +36,8 @@ pages:
   - 'Part III - Elasticsearch': 'databases/chapter-03.md'
 
 - APIs and Webservices:
-  - 'Part I - REST': 'databases/chapter-01.md'
-  - 'Part II - WCF': 'databases/chapter-02.md'
+  - 'Part I - REST': 'apis/chapter-01.md'
+  - 'Part II - WCF': 'apis/chapter-02.md'
 
 - OS´s and containers:
   - 'Part I - Virtual machines': 'hosting/chapter-01.md'
@@ -44,8 +50,3 @@ pages:
 - Trending technologies:
   - 'Part I - Big Data & Analytics': 'trending/chapter-01.md'
   - 'Part II - AWS': 'trending/chapter-02.md'
-
-theme: material
-extra:
-  version: '0.3.2'
-  logo: 'img/tostas.png'
