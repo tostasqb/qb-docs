@@ -30,7 +30,9 @@ Some credits:
 - edX
 - Derek Banas
 
-_Last update gave a big ramp up to the index of this documentation so many chapters are a **Work In Progress**._
+---
+
+<span class="highlight">NOTE:</span> Last written doc was **Part II - ASP.NET MVC** of the **Backend** chapter. There is still much to come so the left menu gives you and overall view.
 
 ---
 Docs last updated in **2 of August 2016**
