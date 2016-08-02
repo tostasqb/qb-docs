@@ -55,8 +55,8 @@ Know about MVC right here
 The first tutorial is more extensive and want to spend some time learning concepts and not jumping fast to the next one maybe you should stick with that. For developers with some experience and understanding or experience of MVC than jump right over to the second series, Derek Banas is very quick to explain and takes just 3 videos to go over Rails.  
 
 - [Tuts + Ruby on Rails 4 for beginners (18 videos)](https://www.youtube.com/playlist?list=PL4PHKQqKQiLf0WU1Rp-O13RILwCbR38yk)
-- [Derek Banas RoR Tutorial (3 to 5 videos)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSngZQwrhYXlPnJf1zYqghI)
-The last 2 videos, although not required to work with rails, I will recommend viewing if you will have concerns about Frontend development.
+- [Derek Banas RoR Tutorial (3 videos)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSngZQwrhYXlPnJf1zYqghI)
+The last 2 videos are not required to work with rails.
 
 Other resources to keep and consult at the same time you learn rails on the tutorial above:
 

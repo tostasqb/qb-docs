@@ -33,4 +33,4 @@ Some credits:
 _Last update gave a big ramp up to the index of this documentation so many chapters are a **Work In Progress**._
 
 ---
-Docs last updated in **29 of July 2016**
+Docs last updated in **2 of August 2016**
