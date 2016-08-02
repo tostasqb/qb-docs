@@ -1,7 +1,5 @@
 # Part II - Microsoft's ASP.NET MVC
 
-_Work in Progress_
-
 ## Introduction
 
 Developing a website or application in .NET is not something new. These guys have been around for quite some time and nowadays have a decent and open (freeish) development framework. I suspect a brutal part of the concepts behind ASP.NET MVC has come from the Rails world so getting to know one will make you learn the other without great effort.
@@ -24,13 +22,13 @@ One of the biggest choices is to choose between these two programming languages.
 
 - One video for C#? Don't have it...yet.
 
-## ASP.net MVC
+## 3. ASP.net MVC
 
 - These [tuts](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started) are really complete but can make you put a gun to your head quickly, (much info and all around) So why is it here? because it can be like a Bible when you need to learn something specific along the way. EF? What? Entity Framework? What? ...just come inside and search for it...
 
 - [Advisable tutorial](http://www.asp.net/mvc/videos/pluralsight-building-applications-with-aspnet-mvc-4). Plurasight is a paid service but Microsoft has made it possible to people to learn from these great video tutorials in MVC 4. You may notice MVC is now on version 5 but you can always uddate yourself after with [MVC 5 Fundamentals](http://pluralsight.com/training/Player?author=scott-allen&name=aspdotnet-mvc5-fundamentals-m1-introduction&mode=live&clip=0&course=aspdotnet-mvc5-fundamentals) which are also free.
 
-## Project
+## 4. Project
 
 As sensei says, "much to learn you still have". So there is much more around this Microsoft's universe that touches MVC and this Project chapter gives you a glimpse of Azure.
 
