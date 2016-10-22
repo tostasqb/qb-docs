@@ -5,10 +5,11 @@ site_author: tostasqb
 repo_url: https://github.com/tostasqb/qb-docs
 google_analytics: ['UA-75996053-1', 'tostasqb.com']
 extra_css: ['extra-styles.css']
+extra_javascript: ['hotjar.js']
 
 theme: material
 extra:
-  version: '0.4.3'
+  version: '0.5.1'
   logo: 'img/tostas.png'
 
 # dev_addr: 'http://127.0.0.1:8000/docs'
@@ -20,7 +21,7 @@ pages:
   - 'Part I - Frontend bases': 'frontend/chapter-01.md'
   - 'Part II - Frontend +': 'frontend/chapter-02.md'
   - 'Part III - Website generation': 'frontend/chapter-03.md'
-  - 'Part IV - Javascript in detail': 'frontend/chapter-04.md'
+  - 'Part IV - Javascript frameworks': 'frontend/chapter-04.md'
   - 'Part V - Meteor': 'frontend/chapter-05.md'
 
 - Backend:
