@@ -1,3 +1,14 @@
+.pull-right {
+  float: right;
+  padding: 14px 0; }
+
+.pull-right strong {
+  background-color: #00bfa5;
+  color: #fff;
+  padding: 3px 7px;
+  border-radius: 3px;
+  margin-left: 4px; }
+
 .highlight {
   background-color: #e84e40;
   padding: 2px 5px;
@@ -52,3 +63,9 @@ code {
     content: '\f015';
     position: absolute;
     margin-left: -20px; }
+
+@media only screen and (min-width: 720px) {
+  .article pre {
+    margin: 10px -2px;
+  }
+}

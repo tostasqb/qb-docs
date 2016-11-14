@@ -1,5 +1,5 @@
 site_name: qb-docs
-site_description: Become a web developer for free, learn from the best resources available online
+site_description: Become a great developer for free, learn the best tools from the best resources available online
 site_author: tostasqb
 
 repo_url: https://github.com/tostasqb/qb-docs
@@ -9,7 +9,7 @@ extra_javascript: ['hotjar.js']
 
 theme: material
 extra:
-  version: '0.5.1'
+  version: '0.6.0'
   logo: 'img/tostas.png'
 
 # dev_addr: 'http://127.0.0.1:8000/docs'
@@ -22,7 +22,7 @@ pages:
   - 'Part II - Frontend +': 'frontend/chapter-02.md'
   - 'Part III - Website generation': 'frontend/chapter-03.md'
   - 'Part IV - Javascript frameworks': 'frontend/chapter-04.md'
-  - 'Part V - Meteor': 'frontend/chapter-05.md'
+  - '(*)Part V - Meteor': 'frontend/chapter-05.md'
 
 - Backend:
   - 'Part I - Ruby on Rails': 'backend/chapter-01.md'
@@ -32,22 +32,21 @@ pages:
   - 'Part I - Hybrid': 'mobile/chapter-01.md'
 
 - Databases:
-  - 'Part I - Mysql': 'databases/chapter-01.md'
-  - 'Part II - Postgres': 'databases/chapter-02.md'
-  - 'Part III - Elasticsearch': 'databases/chapter-03.md'
+  - '(*)Part I - Postgresql & Mysql': 'databases/chapter-01.md'
+  - 'Part II - Elasticsearch': 'databases/chapter-02.md'
 
 - APIs and Webservices:
-  - 'Part I - REST': 'apis/chapter-01.md'
-  - 'Part II - WCF': 'apis/chapter-02.md'
+  - '(*)Part I - REST': 'apis/chapter-01.md'
+  - '(*)Part II - WCF': 'apis/chapter-02.md'
 
-- OS´s and containers:
-  - 'Part I - Virtual machines': 'hosting/chapter-01.md'
-  - 'Part II - Containers': 'hosting/chapter-02.md'
-  - 'Part III - Deploy': 'hosting/chapter-03.md'
+- Devops:
+  - 'Part I - Virtual machines': 'devops/chapter-01.md'
+  - 'Part II - Containers': 'devops/chapter-02.md'
+  - '(*)Part III - Deploy': 'devops/chapter-03.md'
 
-- SoftDev Process:
-  - 'Part I - A little theory': 'process/chapter-01.md'
+- Agile:
+  - 'Part I - Agile manifesto': 'agile/chapter-01.md'
 
-- Trending technologies:
-  - 'Part I - Big Data & Analytics': 'trending/chapter-01.md'
-  - 'Part II - AWS': 'trending/chapter-02.md'
+- Trends:
+  - '(*)Part I - Big Data & Analytics': 'trend/chapter-01.md'
+  - '(*)Part II - AWS': 'trend/chapter-02.md'

@@ -1,4 +1,4 @@
-# Part IV - Javascript in detail
+# Part IV - Javascript frameworks
 
 ## Introduction
 
@@ -29,7 +29,7 @@ These are not the basics, no no no. The basics are available in the first part o
 
 ---
 
-## 3. JQuery and DOM
+## 3. Framework 1: JQuery
 
 You already checked out what the DOM is in the basics part of this series but take a further look in what you can o with it in pure javascript or JQuery. JQuery is one of those things that if you continue to use, you will visit [their site](https://jquery.com/) quite a lot to search the documentation.
 
@@ -38,7 +38,7 @@ You already checked out what the DOM is in the basics part of this series but ta
 
 ---
 
-## 4. AngularJs
+## 4. Framework 2: AngularJs
 
 Angularjs 2.0 is out!! (hearing applause and cheers) This may be the most used/popular javascript framework out there.
 
@@ -47,7 +47,7 @@ Angularjs 2.0 is out!! (hearing applause and cheers) This may be the most used/p
 
 ---
 
-## 5. React
+## 5. Framework 3: React
 
 React can be confusing and overwhelming, the learning curve is a little steep, so take a time to be introduced to the framework with these articles
 

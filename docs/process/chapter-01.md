@@ -1,2 +1,0 @@
-- https://en.wikipedia.org/wiki/Software_development_process
-- Agile: https://www.smashingmagazine.com/2016/07/how-we-started-releasing-features-twice-as-fast-a-case-study/

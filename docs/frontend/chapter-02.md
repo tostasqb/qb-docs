@@ -4,28 +4,24 @@
 
 You already know what your basic needs, now the objective is to be more productive and introduce yourself to good practices this tech role uses.
 
-## 1. NPM
+## 1. GIT
 
-- [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm)
-- [Beginners guide](http://www.sitepoint.com/beginners-guide-node-package-manager/)
+It's important to save our work. This is the way developers worldwide save their code and use tools to compare and recover it.
 
----
-
-## 2. Gulp
-
-- [Understand where the pieces fit together (1 video)](https://youtu.be/LmdT2zhFmn4)
-- [Complete course (11 videos)](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
+- [What is version control? (1 video)](https://git-scm.com/video/what-is-version-control)
+- [Complete git course on codecourse (11 videos)](https://www.youtube.com/playlist?list=PLfdtiltiRHWFEbt9V04NrbmksLV4Pdf3j)
+- Now, install [SourceTree](https://www.sourcetreeapp.com/)
 
 ---
 
-## 3. Getting Responsive
+## 2. Getting Responsive
 
 - [Guidelines for responsive web design (article)](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [How to build a responsive website from start to finish (26 videos)](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 
 ---
 
-## 4. HTML, CSS Frameworks and compilers
+## 3. HTML, CSS Frameworks and compilers
 
 Special focus on [Bootstrap](http://getbootstrap.com/)
 
@@ -35,11 +31,17 @@ Special focus on [Bootstrap](http://getbootstrap.com/)
 
 ---
 
-## 5. GIT
+## 4. Bonus chapter: NPM (optional)
 
-- [What is version control? (1 video)](https://git-scm.com/video/what-is-version-control)
-- [Complete git course on codecourse (11 videos)](https://www.youtube.com/playlist?list=PLfdtiltiRHWFEbt9V04NrbmksLV4Pdf3j)
-- Now, install [SourceTree](https://www.sourcetreeapp.com/)
+- [What is NPM](https://docs.npmjs.com/getting-started/what-is-npm)
+- [Beginners guide](http://www.sitepoint.com/beginners-guide-node-package-manager/)
+
+---
+
+## 5. Bonus chapter: Gulp (optional)
+
+- [Understand where the pieces fit together (1 video)](https://youtu.be/LmdT2zhFmn4)
+- [Complete course (11 videos)](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 
 ---
 

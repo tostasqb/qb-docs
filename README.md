@@ -10,16 +10,14 @@ Markdown documentation project
 QB documentation project is based on [MkDocs](http://www.mkdocs.org/) and written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). It is configured in a single YAML
 configuration file.
 
-### Preview your site as you work
-
-The built-in devserver allows you to preview your documentation as you're
-writing it. It will even auto-reload whenever you save any changes, so all you
-need to do to see your latest edits is refresh your browser.
-Also it is possible and advisable to use Atom as the default writer as you can use the Markdown previewer embedded on the editor to be more efficient.
-
 ---
 
-## Installation
+## Getting started
+
+Getting started is super easy.
+
+
+### Install Python
 
 In order to install QB Docs you'll need `Python` installed on your system, as
 well as the Python package manager, `pip`. You can check if you have these
@@ -32,35 +30,14 @@ $ pip --version
 pip 1.5.2
 ```
 
-Supports Python 2.6, 2.7, 3.3, 3.4 and 3.5.
+### Installing MkDocs
 
-On Windows it is recommended that you install Python and pip with [Chocolatey].
+Install the mkdocs package using `pip install mkdocs`
 
-Install the `mkdocs` package using pip:
+You should now have the mkdocs command installed on your system. Run `mkdocs --version` to check that everything worked okay.
 
-```bash
-pip install mkdocs
-```
 
-Install bootswatch theme
-
-```bash
-pip install mkdocs-bootswatch
-```
-
-You should now have the `mkdocs` command installed on your system. Run `mkdocs
---version` to check that everything worked okay.
-
-```bash
-$ mkdocs --version
-mkdocs, version 0.15.2
-```
-
----
-
-## Getting started
-
-Getting started is super easy.
+### Install qb-docs
 
 ```bash
 git clone git@gitlab.com:tostasqb/qb-docs.git

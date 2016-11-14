@@ -8,7 +8,7 @@ Imagine being able to use a Windows XP, 7, 8, 8.1, 10 or a Mac and Linux on the 
 
 A picture is worth a thousand words _ain't it_? Anyhow, nothing like getting your hands dirty.
 
-## 1. Virtualbox
+## Virtualbox and Project
 
 [Virtualbox](https://www.virtualbox.org/) is one of the most popular and free Virtual Machine software around, made by some guys called [Oracle](https://en.wikipedia.org/wiki/Oracle_Corporation), you may have heard of them, and is a decent way to get started playing around multiple Operating Systems and installing and experimenting stuff without making a mess of your computer.
 

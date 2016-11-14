@@ -77,6 +77,8 @@ This could really be the first chapter...
 
 ## 3. Javascript & Chrome's "Inspect element"
 
+Javascript in detail will be covered on the next chapters but by now you should know the basics and start the curiosity running. Javascript is very powerful, so be open about the potential of it.
+
 - [Javascript fundamentals (7 videos)](https://www.youtube.com/playlist?list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V)
 
 ---
