@@ -7,5 +7,3 @@ Work in Progress
     - Druid
     http://www.infoworld.com/article/2982429/open-source-tools/bossie-awards-2015-the-best-open-source-big-data-tools.html
 - Data Analytics
-- AI
-- Iot

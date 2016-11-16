@@ -9,7 +9,7 @@ extra_javascript: ['hotjar.js']
 
 theme: material
 extra:
-  version: '0.6.0'
+  version: '0.6.1'
   logo: 'img/tostas.png'
 
 # dev_addr: 'http://127.0.0.1:8000/docs'
@@ -18,35 +18,36 @@ pages:
 - Home: index.md
 
 - Frontend:
-  - 'Part I - Frontend bases': 'frontend/chapter-01.md'
-  - 'Part II - Frontend +': 'frontend/chapter-02.md'
-  - 'Part III - Website generation': 'frontend/chapter-03.md'
-  - 'Part IV - Javascript frameworks': 'frontend/chapter-04.md'
-  - '(*)Part V - Meteor': 'frontend/chapter-05.md'
+  - 'Part I - Frontend bases': 'frontend/1-bases.md'
+  - 'Part II - Frontend +': 'frontend/2-plus.md'
+  - 'Part III - Website generation': 'frontend/3-static.md'
+  - 'Part IV - Javascript frameworks': 'frontend/4-js.md'
+  - '(*)Part V - Meteor': 'frontend/5-meteor.md'
 
 - Backend:
-  - 'Part I - Ruby on Rails': 'backend/chapter-01.md'
-  - 'Part II - ASP.NET MVC': 'backend/chapter-02.md'
+  - 'Part I - Ruby on Rails': 'backend/1-ror.md'
+  - 'Part II - ASP.NET MVC': 'backend/2-aspnet-mvc.md'
 
 - Mobile:
-  - 'Part I - Hybrid': 'mobile/chapter-01.md'
+  - 'Part I - Hybrid': 'mobile/1-mobile.md'
 
 - Databases:
-  - '(*)Part I - Postgresql & Mysql': 'databases/chapter-01.md'
-  - 'Part II - Elasticsearch': 'databases/chapter-02.md'
+  - '(*)Part I - Postgresql & Mysql': 'databases/1-rdbms.md'
+  - 'Part II - Elasticsearch': 'databases/2-elastic.md'
 
 - APIs and Webservices:
-  - '(*)Part I - REST': 'apis/chapter-01.md'
-  - '(*)Part II - WCF': 'apis/chapter-02.md'
+  - '(*)Part I - REST': 'apis/1-rest.md'
+  - '(*)Part II - WCF': 'apis/2-wcf.md'
 
 - Devops:
-  - 'Part I - Virtual machines': 'devops/chapter-01.md'
-  - 'Part II - Containers': 'devops/chapter-02.md'
-  - '(*)Part III - Deploy': 'devops/chapter-03.md'
+  - 'Part I - Virtual machines': 'devops/1-vms.md'
+  - 'Part II - Docker': 'devops/2-docker.md'
+  - '(*)Part III - CI': 'devops/3-ci.md'
+  - '(*)Part IV - AWS': 'devops/4-aws.md'
 
 - Agile:
-  - 'Part I - Agile manifesto': 'agile/chapter-01.md'
+  - 'Part I - Agile manifesto': 'agile/1-manifest.md'
 
 - Trends:
-  - '(*)Part I - Big Data & Analytics': 'trend/chapter-01.md'
-  - '(*)Part II - AWS': 'trend/chapter-02.md'
+  - '(*)Part I - Big Data & Analytics': 'trend/1-big-data.md'
+  - '(*)Part II - IoT': 'trend/2-iot.md'

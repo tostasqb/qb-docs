@@ -40,10 +40,13 @@ You already checked out what the DOM is in the basics part of this series but ta
 
 ## 4. Framework 2: AngularJs
 
-Angularjs 2.0 is out!! (hearing applause and cheers) This may be the most used/popular javascript framework out there.
+Angularjs 2.0 is out!! (hearing applause and cheers) This may be the most used/popular javascript framework out there. There are so many options here but let's not go crazy and select all of themmm!
 
-- [CodeAcademy course](https://www.codecademy.com/learn/learn-angularjs)
-- If your spanish's good then [this](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2) is a good resource too.
+- [Read kind of tutorial](http://learnangular2.com/)
+
+With other techs
+
+- Angular and meteor go great together, there's a whole site dedicated to the marriage of both [here](https://www.angular-meteor.com/) and [nice tutorials](https://www.angular-meteor.com/tutorials/socially/angular2/bootstrapping) (not videos).
 
 ---
 
