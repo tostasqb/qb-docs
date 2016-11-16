@@ -29,7 +29,7 @@ pages:
   - 'Part II - ASP.NET MVC': 'backend/2-aspnet-mvc.md'
 
 - Mobile:
-  - 'Part I - Hybrid': 'mobile/1-mobile.md'
+  - 'Part I - Hybrid': 'mobile/1-hybrid.md'
 
 - Databases:
   - '(*)Part I - Postgresql & Mysql': 'databases/1-rdbms.md'
