@@ -1,18 +1,4 @@
-site_name: qb-docs
-site_description: Become a great developer for free, learn the best tools from the best resources available online
-site_author: tostasqb
-
-repo_url: https://github.com/tostasqb/qb-docs
-google_analytics: ['UA-75996053-1', 'tostasqb.com']
-extra_css: ['extra-styles.css']
-extra_javascript: ['hotjar.js']
-
-theme: material
-extra:
-  version: '0.6.1'
-  logo: 'img/tostas.png'
-
-# dev_addr: 'http://127.0.0.1:8000/docs'
+## PAGE INDEX ##
 
 pages:
 - Home: index.md
@@ -22,11 +8,11 @@ pages:
   - 'Part II - Frontend +': 'frontend/2-plus.md'
   - 'Part III - Website generation': 'frontend/3-static.md'
   - 'Part IV - Javascript frameworks': 'frontend/4-js.md'
-  - '(*)Part V - Meteor': 'frontend/5-meteor.md'
 
 - Backend:
   - 'Part I - Ruby on Rails': 'backend/1-ror.md'
   - 'Part II - ASP.NET MVC': 'backend/2-aspnet-mvc.md'
+  - 'Part III - Meteor': 'backend/3-meteor.md'
 
 - Mobile:
   - 'Part I - Hybrid': 'mobile/1-hybrid.md'
@@ -51,3 +37,32 @@ pages:
 - Trends:
   - '(*)Part I - Big Data & Analytics': 'trend/1-big-data.md'
   - '(*)Part II - IoT': 'trend/2-iot.md'
+
+
+
+## CONFIGS ##
+
+site_name: qb-docs
+site_description: Become a great developer for free, learn the best tools from the best resources available online
+site_author: tostasqb
+repo_url: https://github.com/tostasqb/qb-docs
+google_analytics: ['UA-75996053-1', 'tostasqb.com']
+
+extra_css: ['extra-styles.css']
+extra_javascript: [
+  'hotjar.js',
+  'jquery.min.js',
+  'extra-js.js',
+  'https://use.fontawesome.com/bf8bfcaea2.js'
+]
+
+markdown_extensions:
+  - admonition
+
+theme: material
+extra:
+  version: '0.7.0'
+  logo: 'img/tostas.png'
+  font:
+    text: 'Open Sans'
+    code: 'Roboto Mono'

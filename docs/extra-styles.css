@@ -1,3 +1,21 @@
+.article {
+  /*font-size: 16px;*/
+}
+
+.drawer .toc > ul > li > ul {
+  display: none; }
+
+  .drawer .section {
+    cursor: pointer;
+  }
+
+  .drawer .section::before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    position: absolute;
+    margin-left: -12px;
+  }
+
 .pull-right {
   float: right;
   padding: 14px 0; }
@@ -63,6 +81,23 @@ code {
     content: '\f015';
     position: absolute;
     margin-left: -20px; }
+
+.admonition.special {
+  background-color: #fbfaf8;
+  border-left: 3px solid #f9aba4;
+  color: inherit;
+  margin-left: 0; }
+
+  .admonition.special .admonition-title {
+    font-style: italic;  }
+
+  .admonition.special a,
+  .admonition.special a:hover {
+    color: #e84e40;
+  }
+
+  .admonition.special .admonition-title:before {
+    content: ""; }
 
 @media only screen and (min-width: 720px) {
   .article pre {

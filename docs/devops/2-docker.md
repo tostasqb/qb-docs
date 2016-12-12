@@ -52,7 +52,7 @@ The answer is YES, but not because of rancher, it has flaws so don't expect ever
 
 Let's split this neat project into parts:
 
-1) Install a new [Virtualbox Ubuntu server](http://releases.ubuntu.com/16.04/) machine.
+1) Install a new [Virtualbox Ubuntu](http://releases.ubuntu.com/16.04/) machine.
 
 Preferably install an Ubuntu server since it doesn't have and graphical interface and it will run smoother as a guest. Also, you wont need it since you can then connect to Ubuntu through [ssh](https://duckduckgo.com/?q=ssh+cheat+sheet&ia=cheatsheet) on your host computer and continue using your terminal as always. One more thing, Docker installation in Ubuntu is fairly easy.
 
