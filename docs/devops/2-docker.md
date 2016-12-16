@@ -8,9 +8,9 @@ So now you know how to have multiple operating systems and not having to buy mul
 
 So, basically you have a nice PC or Mac (or something else) and depending on your project you end up installing multiple softwares. You work on a Ruby project so you install ruby, you then go to a Visual Studio project so you install that on your computer and so on and on. As a developer, these two alternatives gives you the chance to keep your computer clean by making a VM or modularize your apps/softwares in containers and get rid of those (optionally) when the project comes to an end without having to format your computer because is getting slow and sluggish.
 
-## Docker's bases
+## Docker basics
 
-Keep this basic commands in mind:
+Keep these basic commands in mind:
 
 - docker run <image>
 - docker start <name|id>
@@ -23,6 +23,8 @@ Oh wait! You can see a video that explains each one of them!
 - [Docker in terminal usage](https://youtu.be/JBtWxj9l7zM?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
 
 If you already have docker installed on your computer, forget about Digital Ocean, you can go ahead and start using docker. If not, step into the project below and complete the first 2 steps before going into this tutorial.
+
+- [Install docker on ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
 
 ## Managing Containers with Rancher
 
