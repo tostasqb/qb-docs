@@ -96,7 +96,7 @@ I won't be adding any links here for the recommended leaning path, that's for yo
 
 Depending on your project and learning motivation you may already chosen a framework. This input comes from my professional experience.
 
-I began leaning [vanilla javascript](http://stackoverflow.com/questions/20435653/what-is-vanillajs) and later on adopted jQuery which was really fast to learn and gave me a whole new perspective on javascript itself. Being that my starting point, when a new project is on my desk I consider the simplicity of it. I still use jQuery with Rails to make a ton of short term and simple projects and add [handlebars](http://handlebarsjs.com/) when I'm concerned about client server data transfer, and response time. Handlebars is also very easy to pick up and, in reality, does the job for my _View_ most of the times, you may have already been in touch with it in emberjs for example.
+I began learning [vanilla javascript](http://stackoverflow.com/questions/20435653/what-is-vanillajs) and later on adopted jQuery which was really fast to learn and gave me a whole new perspective on javascript itself. Being that my starting point, when a new project is on my desk I consider the simplicity of it. I still use jQuery with Rails to make a ton of short term and simple projects and add [handlebars](http://handlebarsjs.com/) when I'm concerned about client server data transfer, and response time. Handlebars is also very easy to pick up and, in reality, does the job for my _View_ most of the times, you may have already been in touch with it in emberjs for example.
 
 ---
 

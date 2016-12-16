@@ -61,7 +61,7 @@ markdown_extensions:
 
 theme: material
 extra:
-  version: '0.7.0'
+  version: '0.7.1'
   logo: 'img/tostas.png'
   font:
     text: 'Open Sans'
