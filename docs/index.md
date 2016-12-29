@@ -1,5 +1,5 @@
 <p class="pull-right">
-  Last update <strong>9 Dec 2016</strong>
+  Last update <strong>29 Dec 2016</strong>
 </p>
 
 # Welcome

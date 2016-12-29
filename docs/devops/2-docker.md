@@ -22,6 +22,11 @@ Oh wait! You can see a video that explains each one of them!
 
 - [Docker in terminal usage](https://youtu.be/JBtWxj9l7zM?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
 
+Other useful commands
+
+- docker exec <name|id> [command to execute] if the container is running
+- docker run -it -d <name|id> [command to execute] if the container is not running
+
 If you already have docker installed on your computer, forget about Digital Ocean, you can go ahead and start using docker. If not, step into the project below and complete the first 2 steps before going into this tutorial.
 
 - [Install docker on ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)

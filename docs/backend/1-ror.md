@@ -2,33 +2,18 @@
 
 ## Introduction
 
-Backend development is not essential to make a website, but it is to make a web application or deliver data from a database. A good starting point for learning backend development is to learn Ruby and the most famous Gem available for Ruby, Rails. Just a quick tip on managing both: Use [RVM](https://rvm.io), it's a little catchy at first but it will be much simpler to manage ruby version in time. I'm getting ahead of myself with this tip...begin with the beginning:
+Backend development is not essential to make a website, but it is to make a web application or deliver data from a database. A good starting point for learning backend development is to learn Ruby and the most famous Gem available for Ruby, Rails. Just a quick read before starting off with things.
 
 - [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html)
 - [Boring? Sure...here you go](http://skillcrush.com/2015/01/29/13-ruby-rails/)
 
-Learning Ruby on Rails is great now because there are plenty (good) tutorials out there. Here are some suggestions for this path in no particular order or preference.
-
-## 0. Suggestion 1 - Edx
-
-As an alternative or as an additional resource you could take an online course at [edX](https://www.edx.org/). There is an [Agile Development Using Ruby on Rails - The Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) and an Advanced series starting in September 2016. As always, absolutely free resources.
+Learning Ruby on Rails is great now because there are plenty (good) tutorials out there. Some alternatives to starting off here is to follow [edX](https://www.edx.org/) with [Agile Development Using Ruby on Rails - The Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) or [Rails odin project](http://www.theodinproject.com/ruby-on-rails). The links are there, make your choice!
 
 ---
 
-## 0. Suggestion 2 - Odin project
+## 1. Start off with Ruby
 
-The [odin project](http://www.theodinproject.com/) is a nice alternative for having a complete understanding of how to build a web applications in rails from beginning to end. It requires some time to complete each step and correspondent project but the final project is......facebook!! (nice going odin!).
-
-- [Rails odin project](http://www.theodinproject.com/ruby-on-rails)
-
-
-### <span class="highlight">NOTE</span> In case you chose one of the above options, this Part ends here for you! Congrats!
-
----
-
-## 1. Suggestion 3 - Keep myself here, and start off with Ruby
-
-The final alternative is just another way of learning, it is a quicker way I guess but bear in mind the cons and pros that this could mean.
+To learn Ruby on Rails you may jump right in to Rails and learn the language as you need, I would suggest first getting used to write some code so I leave here some suggestions for that.
 
 - [Learn ruby in one vídeo!](https://youtu.be/Dji9ALCgfpM)
 
@@ -44,7 +29,7 @@ The final alternative is just another way of learning, it is a quicker way I gue
 
 ## 2. MVC
 
-Know about MVC right here
+Know about MVC right here, this is the structure followed by Rails.
 
 <iframe width="100%" height="350px" src="https://www.youtube.com/embed/LiBdzE_DJn4" frameborder="0" allowfullscreen></iframe>
 
@@ -52,17 +37,29 @@ Know about MVC right here
 
 ## 3. Rails
 
-The first tutorial is more extensive and want to spend some time learning concepts and not jumping fast to the next one maybe you should stick with that. For developers with some experience and understanding or experience of MVC than jump right over to the second series, Derek Banas is very quick to explain and takes just 3 videos to go over Rails.  
+To keep things simple, here are the steps to get ruby and rails up and running on your machine. After that I'll leave you with the most [famous tutorial for rails](http://guides.rubyonrails.org/).
 
-- [Tuts + Ruby on Rails 4 for beginners (18 videos)](https://www.youtube.com/playlist?list=PL4PHKQqKQiLf0WU1Rp-O13RILwCbR38yk)
-- [Derek Banas RoR Tutorial (3 videos)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSngZQwrhYXlPnJf1zYqghI)
-The last 2 videos are not required to work with rails.
+### Install RVM, Ruby and Rails
 
-Other resources to keep and consult at the same time you learn rails on the tutorial above:
+RVM (Ruby Version Manager) is a nice tool that will keep you from messing up your ruby installation. [This page](https://rvm.io/rvm/install) describes thoroughly how to install it but I'll go ahead an sum it up wit these two commands
+
+    gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+    \curl -sSL https://get.rvm.io | bash -s stable --rails
+
+The second command installed rvm, ruby and rails. The first is just to gain access to the sources. After this, chances are your terminal won't behave as well as you expect after restarting, but test it out by typing `ruby -v`. This should print something like
+
+    ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin15]
+
+If it didn't, then add to your `~/.bashrc` this line
+
+    [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
+
+Restart your terminal and see if it behaves now. So starting a new project would be now as simple as `rails new my_web_project` and then enter of course. But that I'll leave to the proper tutorials...
+
+- [Tutorial and bible](http://guides.rubyonrails.org/), but go ahead and start [here](http://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project)! You already covered the basics.
 
 - [Rails style guide](https://github.com/bbatsov/rails-style-guide). They really are helpful in avoiding common mistakes and writing code others can understand easily. Also, a great way to have this always present is to install [Atom's linter plugins](https://github.com/AtomLinter/linter-rubocop), that give you realtime tips and warnings based on these style guides.
 
-- [Rails Bible](http://guides.rubyonrails.org/) and the guides to release you from doubts. Everytime you don't remember something or have some doubts about activerecord for instance, this is your _Oracle_.
 
 ---
 
