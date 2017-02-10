@@ -87,7 +87,7 @@ mkdocs build --clean
 
 ## Online documentation
 
-When ready, submit a pull request and once accepted it will be 'automagically' published on [tostasqb.com/docs](http://tostasqb.com/docs)
+When ready, submit a pull request and once accepted it will be 'automagically' published on [docs.tostasqb.com](http://docs.tostasqb.com)
 
 ## Credits
 
