@@ -50,10 +50,7 @@ google_analytics: ['UA-75996053-1', 'tostasqb.com']
 
 extra_css: ['extra-styles.css']
 extra_javascript: [
-  'hotjar.js',
-  'jquery.min.js',
-  'extra-js.js',
-  'https://use.fontawesome.com/bf8bfcaea2.js'
+  'hotjar.js'
 ]
 
 markdown_extensions:
@@ -61,7 +58,10 @@ markdown_extensions:
 
 theme: material
 extra:
-  version: '0.7.2'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  version: '0.8'
   logo: 'img/tostas.png'
   font:
     text: 'Open Sans'

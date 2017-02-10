@@ -81,4 +81,4 @@ What to publish? Just do the **final project**!
 
 - Host it on GitHub, don't know how? Checkout Part II, Chapter 5 of the Frontend Series.
 
-<a href="/docs/img/todo.png" class="img-preview" style="background-image: url(/docs/img/todo.png)">&nbsp;</a>
+<a href="/img/todo.png" class="img-preview" style="background-image: url(/img/todo.png)">&nbsp;</a>

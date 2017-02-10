@@ -41,4 +41,4 @@ Ok, so you now you know how to begin building an app, but how are you going to a
 
 Make a "to do" app with Phonegap and Onsen just like when learning Ruby On Rails...but Android style!
 
-<a href="/docs/img/android.png" class="img-preview" style="background-image: url(/docs/img/android.png)">&nbsp;</a>
+<a href="/img/android.png" class="img-preview" style="background-image: url(/img/android.png)">&nbsp;</a>

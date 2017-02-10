@@ -1,8 +1,10 @@
-<p class="pull-right">
-  Last update <strong>29 Dec 2016</strong>
-</p>
+
 
 # Welcome
+
+<span class="super-highlight">
+  Last update <strong>29 Dec 2016</strong>
+</span>
 
 This project is about <span class="highlight">centralizing</span> and <span class="highlight">learning</span> from good and <span class="highlight">free</span> resources. You may be a newbie or experienced developer or just wanting to become one, this is for you. I use this for my own personal bible and to help interns on their way! I don't know everything here, only what I need to use depending on the project. And that's one of the reasons you should choose a subject, because it would be the right tool for your next project.
 
