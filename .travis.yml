@@ -12,4 +12,4 @@ script:
 - mkdocs build
 after_success:
 - sudo apt-get install ncftp
-- ncftpput -R -v -u $FTP_USER -p $FTP_PASSWORD ftp.onstatic-pt.setupdns.net docs site/*
+- ncftpput -R -v -u $FTP_USER -p $FTP_PASSWORD ftp.onstatic-pt.setupdns.net public/docs site/*
