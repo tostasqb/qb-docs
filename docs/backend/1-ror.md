@@ -60,10 +60,28 @@ Restart your terminal and see if it behaves now. So starting a new project would
 
 - [Rails style guide](https://github.com/bbatsov/rails-style-guide). They really are helpful in avoiding common mistakes and writing code others can understand easily. Also, a great way to have this always present is to install [Atom's linter plugins](https://github.com/AtomLinter/linter-rubocop), that give you realtime tips and warnings based on these style guides.
 
+---
+
+## 4. Testing
+
+Testing is important. This could be a chapter if we opted for describing each step in detail, instead step onto the docs if you please. There are some options when it comes to tools and methodology, with time you should appreciate to code in a *tests first* kind of way. This is called TDD. But [read this](https://semaphoreci.com/community/tutorials/behavior-driven-development) article first from a Semaphore cofounder to be more in the context of what are tests and why they are useful.
+
+I've searched for best practices or style guides for testing in rails but in this case there isn't a strong convention unlike what happens in [Ruby](https://github.com/bbatsov/ruby-style-guide) and [RoR](https://github.com/bbatsov/rails-style-guide) examples. So, following [abinoda's](https://github.com/abinoda/rspec-best-practices) examples we will create and modify are own through time. Let's get the choices out of the way and start making decisions using some gems:
+
+0. Follow [this tutorial](https://rails.devcamp.com/rails-bdd-tdd-course/generating-configuring-application/how-to-install-rspec-capybara-testing-frameworks) to install rspec and Capybara.
+1. Let's use [rspec](https://github.com/rspec/rspec-rails) to evaluate and test models
+2. We'll use rspec for controllers and helpers too
+3. We'll use [Capybara](https://github.com/teamcapybara/capybara) for [functional tests](https://rails.devcamp.com/rails-bdd-tdd-course/generating-configuring-application/using-capybara-bdd-tests-build-homepage) (features)
+4. We'll use Jasmine for [javascript tests](https://www.udacity.com/course/javascript-testing--ud549)
+5. We'll use [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) to keep our test database empty at the beginning of each test
+6. We'll use FactoryGirl to keep data generation separate from our logic
+7. Lastly, set up a coverage gem so we can keep up with a test coverage status percentage, use [simplecov](https://github.com/colszowka/simplecov) for that.
+
+Bear in mind our [Best practices](https://github.com/tostasqb/rspec-best-practices) to follow along. If you'd like to contribute to these style guides please do submit an issue for further discussion or/and submit a pull request.
 
 ---
 
-## 4. Hosting on heroku
+## 5. Hosting on heroku
 
 Hosting your app online can be a challenge with rails. Many versions of ruby, rails, gems, etc, etc. And free? Seems almost impossible. Thankfully there's heroku that simplifies all this and where you can be up and running in little time.
 
@@ -73,7 +91,7 @@ What to publish? Just do the **final project**!
 
 ---
 
-## 5. Final project
+## 6. Final project
 
 - Build a TO DO list application on ROR. You have one day!! What?! Yeah! [This guy did it!](https://www.youtube.com/watch?v=fd1Vn-Wvy2w) so follow along and get creative.
 

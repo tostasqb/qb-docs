@@ -94,4 +94,6 @@ When ready, submit a pull request and once accepted it will be 'automagically' p
 - [mkdocs](http://www.mkdocs.org/)
 - [devtips](https://www.youtube.com/user/DevTipsForDesigners/playlists)
 - [Tuts+](http://tutsplus.com/courses?filter=free&page=1)
+- [Udacity](https://www.udacity.com/)
+- [devcamp.com](https://devcamp.com)
 - Remind me to put some more here...
